@@ -1,2 +1,2 @@
 # SAGBVisualizations
-A Collection of Data Visualizations for Sports Analytics Articles.
+A Collection of Sports Analytics Data Visualizations.
